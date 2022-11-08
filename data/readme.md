@@ -1,2 +1,2 @@
-This folder has the Bengal(Cat), american_bulldog and shiba_inu data (the words are in upper and lower case same as the data).
+This folder has the Bengal(Cat), American_Bulldog and Shiba_Inu data.
 The name is self explanatory.
